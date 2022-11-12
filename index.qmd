@@ -1,5 +1,5 @@
 ---
-title: "myblog"
+title: "Roberto Verdugo"
 listing:
   contents: posts
   sort: "date desc"
